@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yulluone" target="blank"><img src="https://img.shields.io/twitter/follow/yulluone?logo=twitter&style=for-the-badge" alt="yulluone" /></a> </p>
 
-- 🔭 I’m currently working on [an E-Commerce platform](https://qwmy.yulluco.com)
+- 🔭 I’m currently working on [an E-Commerce platform](https://gwmy.yulluco.com)
 
 - 🌱 I’m currently learning **React Native**
 
