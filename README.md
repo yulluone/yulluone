@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Yullu</h1>
 <h3 align="center">Hi, I save the world with stunning web applications.</h3>
 
-- 🔭 I’m currently working on [an E-Commerce platform](https://gwmy.yulluco.com)
+- <p> 🔭 I’m currently working on [an E-Commerce platform](https://gwmy.yulluco.com) </p>
 
 - 🌱 I’m currently learning **React Native**
 
