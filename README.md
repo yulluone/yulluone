@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Joshua Yullu</h1>
 <h3 align="center">Hi, I save the world with stunning web applications.</h3>
 
-- <p> 🔭 I’m currently working on [an E-Commerce platform](https://gwmy.yulluco.com) </p>
+<br>
 
-- 🌱 I’m currently learning **React Native**
+<p align="center">🔭 I’m currently working on [an E-Commerce platform](https://gwmy.yulluco.com) </p>
 
-- 👯 I’m looking to contribute to Education with AI focused projects.
+<p align="center">🌱 I’m currently learning <b>React Native</b></p>
 
-- 👨‍💻 All of my projects and descriptions are available at [freelance portfolio]([https://yullu.me/](https://yullu.me/projects))
+<p align="center">👯 I’m looking to contribute to Education with AI focused projects.</p>
 
-- 📝 I regularly write articles on [medium](https://medium.com/@paranoiddroid)
+<p align="center">👨‍💻 All of my projects and descriptions are available at [freelance portfolio]([https://yullu.me/](https://yullu.me/projects))</p>
 
-- 💬 Ask me about **God & Life in Kenya**
+<p align="center">📝 I regularly write articles on <a href="https://medium.com/@yulluone">medium</a></p>
 
-- 📫 How to reach me **slide into my DMs, I'd love to talk to you.**
+<p align="center">💬 Ask me about <b>God & Life in Kenya</b> </p>
+
+<p align="center">📫 How to reach me <b>slide into my DMs, I'd love to talk to you.</b></p>
+
+  
   
 
 <h3 align="left">Connect with me:</h3>
