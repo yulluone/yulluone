@@ -24,8 +24,6 @@
 <a href="https://twitter.com/yulluone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yulluone" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joshua-yullu-068042192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-yullu-068042192" height="30" width="40" /></a>
 <a href="https://medium.com/@paranoiddroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paranoiddroid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yulluonetech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yulluonetech" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yulluone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yulluone" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuamwo&show_icons=true&locale=en&layout=compact" alt="joshuamwo" /></p>
