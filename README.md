@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua Yullu</h1>
 <h3 align="center">Hi, I save the world with stunning web applications.</h3>
 
-<p align="left"> <a href="https://twitter.com/yulluone" target="blank"><img src="https://img.shields.io/twitter/follow/yulluone?logo=twitter&style=for-the-badge" alt="yulluone" /></a> </p>
-
 - 🔭 I’m currently working on [an E-Commerce platform](https://gwmy.yulluco.com)
 
 - 🌱 I’m currently learning **React Native**
