@@ -1,18 +1,18 @@
 <h2>Hi 👋, I'm Joshua Yullu and...</h2>
 
-<p >💻 I’ve been saving the world with Stunning Web Apps for over 3 years </p>
+<p >💻 Saving the world with Stunning Web Applications for over 3 years </p>
 
 <p >🔭 I’m currently working on <a href="https://gwmy.yulluco.com">an E-Commerce platform</a> </p>
 
-<p >🌱 I’m currently learning <b>React Native</b></p>
+<p >🌱 Dating  <b>React Native</b></p>
 
-<p >👯 I’m looking to contribute to open-source AI solutions in the Education Sector.</p>
+<p >👯 Looking to contribute to open-source AI solutions in the Education Sector.</p>
 
 <p >👨‍💻 See my projects and descriptions on my <a href="https://yullu.me/projects">freelance portfolio</a></p>
 
-<p >📝 I regularly write articles on <a href="https://medium.com/@yulluone">medium</a></p>
+<p >📝 I write articles on <a href="https://medium.com/@yulluone">medium</a></p>
 
-<p >💬 Ask me about <b>God, Kenya Safari Tours & Your Problems </b> </p>
+<p >💬 Ask me about <b> taking capturing attention withing seconds with stunning UI/UX </b> </p>
 
 <br>  
 
