@@ -12,7 +12,7 @@
 
 <p >📝 I write articles on <a href="https://medium.com/@yulluone">medium</a></p>
 
-<p >💬 Ask me about <b> capturing attention in seconds with stunning UI/UX </b> </p>
+<p >💬 Ask me about <b style={color: "green"}> capturing attention in seconds with stunning UI/UX </b> </p>
 
 <br>  
 
