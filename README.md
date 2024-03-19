@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Joshua Yullu and...</h2>
 
-<p >💻 Saving the world with Stunning Web Applications for over 3 years </p>
+<p >💻 I've been building software solutions for over 3 years </p>
 
 <p >🔭 I’m currently working on <a href="https://gwmy.yulluco.com">an E-Commerce platform</a> </p>
 
