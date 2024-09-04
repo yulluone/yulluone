@@ -1,22 +1,20 @@
 <h2>Hi 👋, I'm Joshua Yullu and...</h2>
 
-<p >💻 I've been building software solutions for over 3 years </p>
+<p >💻 I build solutions on the web </p>
 
-<p >🔭 I’m currently working on <a href="https://gwmy.yulluco.com">an E-Commerce platform</a> </p>
+<p >🔭 I’m currently working on <a href="https://rocket-jobs.com">Rocket Jobs - A jobs platform</a> and </p> 
 
-<p >🌱 Dating  <b>React Native</b></p>
+<p >👯 I am looking to contribute to open-source AI solutions in the Education Sector.</p>
 
-<p >👯 Looking to contribute to open-source AI solutions in the Education Sector.</p>
+<p >👨‍💻 You can learn more about me on my <a href="https://yulluco.com">portfolio</a> or</p>
 
-<p >👨‍💻 See my projects and descriptions on my <a href="https://yullu.me/projects">freelance portfolio</a></p>
+<p >📝 from my articles on <a href="https://medium.com/@yulluone">medium</a></p>
 
-<p >📝 I write articles on <a href="https://medium.com/@yulluone">medium</a></p>
-
-<p >💬 Ask me about <b style={color: "green"}> capturing attention in seconds with stunning UI/UX </b> </p>
+<p >💬 Ask me about <b style={color: "green"}> capturing users' attention in seconds with stunning UI/UX </b> </p>
 
 <br>  
 
-<h4 align="left">📫 Slide into my DMs, I'd love to talk to you:</h4>
+<h4 align="left">📫 Feel free to chat me up on any of my socials:</h4>
 <p align="left">
 <a href="https://dev.to/yulluone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yulluone" height="30" width="40" /></a>
 <a href="https://twitter.com/yulluone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yulluone" height="30" width="40" /></a>
